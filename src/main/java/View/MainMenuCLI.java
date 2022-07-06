@@ -1,6 +1,7 @@
-package com.techelevator.consolemenu.view;
+/*
+package View;
 
-import com.techelevator.view.Menu;
+import View.view.Menu;
 
 public class MainMenuCLI {
 
@@ -45,3 +46,4 @@ public class MainMenuCLI {
 		}
 	}
 }
+*/

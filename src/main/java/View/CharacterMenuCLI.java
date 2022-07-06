@@ -1,7 +1,8 @@
-package com.techelevator.consolemenu.view;
+/*
+package View;
 
 import java.util.Scanner;
-import com.techelevator.view.Menu;
+import View.view.Menu;
 
 public class CharacterMenuCLI {
 	private static final String MENU_OPTION_FLINT_NOSE = "Flint Nose";
@@ -51,3 +52,4 @@ public class CharacterMenuCLI {
 	}
 
 }
+*/
